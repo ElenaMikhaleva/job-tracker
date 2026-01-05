@@ -1,3 +1,9 @@
+# Overview
+
+Version: v1.0
+Date Created: 05/01/26
+Responsibilities: documentation writing, code writing, testing — Elena Mikhaleva
+
 # Job Ad Form
 
 Required fields to fill in:
@@ -12,5 +18,3 @@ Optional fields to fill in:
 
 URL field requirements:
 - unique URL
-- valid URL
-
